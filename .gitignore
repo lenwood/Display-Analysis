@@ -213,3 +213,14 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#############
+## My Stuff
+#############
+.Rproj.user/
+data/
+images/
+*.RData
+*.Rhistory
+*.Rproj
+.Rproj.user
